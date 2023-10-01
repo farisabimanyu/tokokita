@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <h1>Hasil<h1><br>
-<h2>Register Page</h><br>
+<h2>Registrasi Page</h><br>
 <img src="Registrasi Page.png">
 <h2>Login Page</h><br>
 <img src="Login Page.png">
