@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <h1>Hasil<h1><br>
 <h2>Registrasi Page</h><br>
-<img src="Registrasi Page.png">
+<img src="Registrasi page.png">
 <h2>Login Page</h><br>
 <img src="Login Page.png">
 <h2>List Produk</h><br>
