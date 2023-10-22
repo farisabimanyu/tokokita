@@ -28,3 +28,26 @@ samples, guidance on mobile development, and a full API reference.
 <img src="Tambah Produk.png">
 <h2>Ubah Produk</h><br>
 <img src="Ubah Produk.png">
+<h2>Registrasi page_2</h><br>
+<img src="Registrasi page_2.png">
+<h2>Registrasi sukses_2</h><br>
+<img src="Registrasi sukses_2.png">
+<h2>Login gagal_2</h><br>
+<img src="Login gagal_2.png">
+<h2>List produk_2</h><br>
+<img src="List produk_2.png">
+<h2>Tambah produk_2</h><br>
+<img src="Tambah produk_2.png">
+<h2>List produk after tambah_2</h><br>
+<img src="List produk after tambah_2.png">
+<h2>Detail produk_2</h><br>
+<img src="Detail produk_2.png">
+<h2>List produk after edit_2</h><br>
+<img src="List produk after edit_2.png">
+<h2>Detail produk after edit_2</h><br>
+<img src="Detail produk after edit_2.png">
+<h2>List produk after delete_2</h><br>
+<img src="List produk after delete_2.png">
+<h2>Log out_2.</h><br>
+<img src="Log out_2.png">
+
